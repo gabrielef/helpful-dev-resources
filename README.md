@@ -14,5 +14,8 @@ Environment
 Framework
  - [Slim Framework](http://www.slimframework.com/): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 
+Sandbox
+- [Stargento](http://stargento.com/): Stargento is a PHP sandbox powered up with the latest Magento installation to test your Magento skills.
+
 Utility
  - [Composer](https://getcomposer.org/): Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
