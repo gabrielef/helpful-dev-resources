@@ -23,3 +23,7 @@ Utility
 ##Security
 Tunnels
 - [ngrok](https://ngrok.com/): Secure tunnels to localhost.
+
+##Video
+Calculator
+- [Video Bitrate Calculator](http://www.dr-lex.be/info-stuff/videocalc.html)
