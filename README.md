@@ -4,6 +4,9 @@
  - [React](http://facebook.github.io/react/): A JavaScript library for building user interfaces.
  - [MediaElement.js](http://mediaelementjs.com/): HTML5 video and audio made easy. One file. Any browser. Same UI.
 
+##JSON
+ - [JMESPath](http://jmespath.org/): JMESPath is a query language for JSON
+
 ##PHP
 Documentation
  - [Supported Versions](http://php.net/supported-versions.php): PHP Supported versions and migration table.
@@ -27,3 +30,6 @@ Tunnels
 ##Video
 Calculator
 - [Video Bitrate Calculator](http://www.dr-lex.be/info-stuff/videocalc.html)
+
+Tools
+- [FFmpeg-commands](https://github.com/gabrielef/FFmpeg-commands): Repository with useful ffmpeg commands
